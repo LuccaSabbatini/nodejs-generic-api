@@ -1,8 +1,8 @@
 {
-  "name": "node.js-generic-api",
+  "name": "nodejs-generic-api",
   "version": "1.0.0",
   "main": "src/server.js",
-  "repository": "https://github.com/Go2web/aquisefaz-drinks-api.git",
+  "repository": "https://github.com/LuccaSabbatini/nodejs-generic-api.git",
   "author": "LuccaSabbatini <sabbatini.lucca@gmail.com>",
   "license": "MIT",
   "scripts": {
